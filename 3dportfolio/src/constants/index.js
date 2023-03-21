@@ -170,20 +170,23 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial: "There is always solution to problems.",
+    testimonial:
+      "Sudip is a talented and knowledgeable web developer who consistently delivers high-quality work. He is responsive, reliable and a pleasure to work with. I highly recommend Sudip to anyone in need of web development services.",
+    name: "Bill Ayedimir",
+    designation: "Manager",
+    company: "Hype Studio Design",
+  },
+  {
+    testimonial:
+      "Sudip provided exceptional technical support, resolving our issues quickly and efficiently. Their professionalism and expertise were invaluable, and I highly recommend Sudip to anyone in need of IT support.",
     name: "Andrew Silva",
     designation: "IT Field Support",
     company: "Tafe NSW",
   },
   {
-    testimonial: "There is always solution to problems.",
+    testimonial:
+      "Sudip is a true professional, providing excellent technical support when we needed it most. He is knowledgeable, efficient and a pleasure to work with. I highly recommend Sudip to anyone looking for reliable IT support.",
     name: "Nabin Aryal",
-    designation: "IT Service Desk and Field Support",
-    company: "Tafe NSW",
-  },
-  {
-    testimonial: "There is always solution to problems.",
-    name: "Al Moyeid",
     designation: "IT Service Desk and Field Support",
     company: "Tafe NSW",
   },
